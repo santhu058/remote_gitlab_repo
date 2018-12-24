@@ -2,7 +2,7 @@
 
 #include <stdio.h>
  
-int main()
+void main()
 {
   int i, Number; 
    
@@ -18,5 +18,5 @@ int main()
 		}
    }
  
-  return 0;
+  //return 0;
 }
